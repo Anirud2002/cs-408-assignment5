@@ -43,27 +43,12 @@ article {
   margin-left: 20px;
 }
 
-.col button {
-  margin-top: 10px;
-  padding: 10px;
-  cursor: pointer;
-  transition: .3s ease;
-}
-
-.col button:hover {
-  transform: scale(1.1);
-}
-
 .header, .footer {
   width: 100%;
 }
 
 .header > img, .footer > img {
   width: 100%;
-}
-
-.footer {
-  margin-top: -100px;
 }
 
 .logo {
@@ -83,10 +68,4 @@ article {
   top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
-}
-
-.address-container {
-  display: flex;
-  justify-content: flex-end; /* Pushes the address to the right */
-  margin-right: 70px;
 }
