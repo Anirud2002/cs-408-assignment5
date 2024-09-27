@@ -1,24 +1,18 @@
-# Web Dev Starter Code
+# CSS Part 2
 
 ## Overview
 
-TODO: Write a project description
+CSS part 2 lab goes more in depth regarding css properties.
+
+## Instructions for code reviewers
+
+Thank you for taking the time to review my code. Please follow the steps below to get the project running on your local machine:
+
+1. **Start the Live Server**
+
+   - If you're using Visual Studio Code, you can use the Live Server extension by right-clicking on `index.html` and selecting "Open with Live Server."
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+W3Schools : https://www.w3schools.com/tags/tag_cite.asp - used for css style properties like "flex-grow"
+Radio buttons : https://www.w3schools.com/tags/att_input_type_radio.asp
