@@ -71,14 +71,21 @@ article {
   display: inline-block;
   width: fit-content;
   height: fit-content;
-  margin-top: -90px;
+  width: 150px;
+  height: 150px;
+  background: red;
+  border-radius: 50%;
+  background-image: url("../img/logo.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: -50px;
   margin-left: 60px;
 }
 
 .logo h1 {
   position: absolute;
   font-size: 20px;
-  color: white;
+  color: black;
   text-align: center;
   top: 40%;
   left: 50%;
@@ -89,4 +96,16 @@ article {
   display: flex;
   justify-content: flex-end; /* Pushes the address to the right */
   margin-right: 70px;
+}
+
+/************ for screen size less than 1024px ****************/
+
+@media (max-width: 1024px) {
+  main {
+    width: 90%;
+  }
+
+  .row {
+    flex-direction: column;
+  }
 }
